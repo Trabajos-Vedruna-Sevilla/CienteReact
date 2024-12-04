@@ -1,0 +1,9 @@
+.tarjetaSubs{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    min-width: 70vw;
+    border: 1px solid black;
+    padding: 10px;
+}

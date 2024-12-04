@@ -1,0 +1,19 @@
+
+.info{
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+}
+.info1{
+    max-width: 50vw;
+    text-align: justify;
+}
+.info2{
+    min-width: 25vw;
+    background-color: #303030 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ee0000;
+}
